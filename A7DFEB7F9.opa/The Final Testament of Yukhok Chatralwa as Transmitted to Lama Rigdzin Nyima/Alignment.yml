@@ -1,0 +1,26 @@
+segment_sources:
+  P226F8865:
+    type: origin_type
+    relation: translation
+    language: en
+  P1951B99B:
+    type: origin_type
+    relation: translation
+    language: zh
+  P98416610:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  56c28e30dbc94f578b5536c42e105627:
+    P226F8865: 9973a8878106413686a540694efff221
+    P1951B99B: 48c2f29fca164b3f91d6133a0938bb22
+    P98416610: fb4e0a46a7c748ffbcb06a83780dc9de
+  0dde3f6c2dc74320b36ea485783e63ac:
+    P226F8865: 144d5b403e494952a4360f6a7026c7cd
+    P1951B99B: ccc39e1a484742bd92f1a82cb2468a05
+    P98416610: 439ff5f3c8b144b1806ac03f90aa25fd
+  8627766830da4b1bb8588f5c3acdb66c:
+    P226F8865: 97207c751de841cb8a2ee11e33f08922
+    P1951B99B: ee6ec918847541329d744ab4869db0de
+    P98416610: 95259eb94f3c499a9aec3a2148e3d306

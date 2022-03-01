@@ -1,0 +1,47 @@
+segment_sources:
+  P226F8865:
+    type: origin_type
+    relation: translation
+    language: en
+  P2C585D08:
+    type: origin_type
+    relation: translation
+    language: de
+  PBF12283E:
+    type: origin_type
+    relation: translation
+    language: es
+  P843F2863:
+    type: origin_type
+    relation: translation
+    language: fr
+  P51380CFC:
+    type: origin_type
+    relation: translation
+    language: nl
+  P98416610:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  cd5ee42e524e444cb0d362d6e6b5215e:
+    P226F8865: 9d6c980cc28a40209c89de1dce5f393f
+    P2C585D08: ae4936795bf94b089299a3d8e4d0568e
+    PBF12283E: 04d0a430723644229cedb6e999ed02a7
+    P843F2863: 288174762dfb4aa7898cc0285563f933
+    P51380CFC: 60bc148627054d31a6cdd94fbdcf3725
+    P98416610: b815e4bf50204ddc93a001cbbcb5f657
+  3a15bb15dfcf477f86143c53c3ab8147:
+    P226F8865: a0b1c8a5516c42b3982d51296f14574f
+    P2C585D08: 4c27c3d7a4a9422bbbddb7c8628bb0d1
+    PBF12283E: eb2704ec380a41cbab2ec4bbaf162ec4
+    P843F2863: 23f09ea49e284254b8979ede5491a6c1
+    P51380CFC: af846020c7994da2b508323bca4c53c7
+    P98416610: 1a48e122c7984eaebf50759e33f8e0b4
+  39f2bb78e0fb4226ae419aecad5df2ab:
+    P226F8865: dd2fdfa47e3b4f5ea0ba946c964d9a30
+    P2C585D08: None
+    PBF12283E: None
+    P843F2863: None
+    P51380CFC: None
+    P98416610: 57939d0ff9c1462b91d7c4dfd4e1fb64
